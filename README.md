@@ -25,15 +25,17 @@ You can interact with the project [here]()
 I used Power Query to clean and transform the data while using Power Pivot to analyse and create models. Other tools used includes; slicers, filters, DAX. Leveraging visualization tools, I created charts, graphs, and pivot tables to showcase key Performance metrics.
 
 ## Chart
-![]()----------|---------- ![]()
+### filter -----------------------| -------------------------- Chart
+![](Filters_Slicers.png)----------|---------- ![](Sales_chart.png)
 
 ## Analysis
 - Total Revenue by Month
-![]()
+![](total_reveue_by_month.png)
    
 This chart shows the revenue generated between Jan - June. The highest at $56,957 and $27,821, it also shows that there is steady rise from february until June.
+
 - Transaction by the Hour of the Day
-![]()
+![](transaction_by_Hour.png)
 
 This chart shows the hours of the day the store records the highest sales which is between 8hrs and 10hrs. The most sales is at the 10hrs, with 6957 transactions.
 
