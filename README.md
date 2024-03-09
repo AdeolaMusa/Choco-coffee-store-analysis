@@ -30,7 +30,7 @@ I used Power Query to clean and transform the data while using Power Pivot to an
 
 ## Analysis
 - Total Revenue by Month
-![](total_revenue_by_month.png)
+![](total_revenue_b _month.png)
    
 This chart shows the revenue generated between Jan - June. The highest at $56,957 and $27,821, it also shows that there is steady rise from february until June.
 
