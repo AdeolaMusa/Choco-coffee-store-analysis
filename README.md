@@ -30,12 +30,12 @@ I used Power Query to clean and transform the data while using Power Pivot to an
 
 ## Analysis
 - Total Revenue by Month
-![](total_revenue_b _month.png)
+![](revenue_by_month.png)
    
 This chart shows the revenue generated between Jan - June. The highest at $56,957 and $27,821, it also shows that there is steady rise from february until June.
 
 - Transaction by the Hour of the Day
-![](Transaction_by_hour.png)
+![](Transaction_by_hour)
 
 This chart shows the hours of the day the store records the highest sales which is between 8hrs and 10hrs. The most sales is at the 10hrs, with 6957 transactions.
 
@@ -44,7 +44,7 @@ This chart shows the hours of the day the store records the highest sales which 
 
   
 - Transaction by Product Category
-![]()
+![](transaction_product_category)
 
 This chart shows highest selling product in the store. Coffee sells the highest (20187), followed by Tea (15277) and the Bakery (7617).
  
